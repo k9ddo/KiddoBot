@@ -28,7 +28,7 @@ A friendly Python desktop voice assistant with speech recognition, AI integratio
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/k9ddo/KiddoBot
+git clone https://github.com/k9ddo/KiddoBot.git
 cd KiddoBot
 ```
 
